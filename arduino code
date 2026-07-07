@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-//RS = 7, E = 6, D4 = 5, 
+//RS = 7, E = 6, D4 = 5, D5 = 8, D6 = 9, D7 = 10
 LiquidCrystal lcd (7, 6, 5, 8, 9, 10);
 
 //Define pin numbers
