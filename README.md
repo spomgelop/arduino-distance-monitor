@@ -1,2 +1,1 @@
-# arduino-distance-monitor
-An Arduino-based proximity detection system using an HC-SR04 ultrasonic sensor, three LEDs and an I2C LCD display. Measures distance in centimetres and triggers different LEDs based on proximity ranges, while displaying live distance readings on the LCD screen.
+<img width="676" height="636" alt="image" src="https://github.com/user-attachments/assets/239f2909-ba7c-444e-a7ef-0b32f9c8da63" />
